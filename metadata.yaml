@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4926'
     url: http://www.gutenberg.org/2009/agents/4926
 description: Cover -- Table of Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13215#Edwy-the-Fair-or-the-First-Chronicle-of-Aescendune--13-A-Tale-of-the-Days-of-Saint-Dunstan
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-08-18'
 gutenberg_type: Text
