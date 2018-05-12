@@ -1,0 +1,31 @@
+_repo: Edwy-the-Fair-or-the-First-Chronicle-of-Aescendune--13-A-Tale-of-the-Days-of-Saint-Dunstan_13215
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crake, A. D. (Augustine David)
+    alias: Crake, Augustine David
+    birthdate: 1836
+    deathdate: 1890
+    gutenberg_agent_id: '4926'
+    url: http://www.gutenberg.org/2009/agents/4926
+description: Cover -- Table of Contents.
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13215'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dunstan, Saint, 909-988 -- Juvenile fiction'
+- !lcsh 'Edwy, King of England, -959 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Historical fiction'
+title: "Edwy the Fair or the First Chronicle of Aescendune\r\nA Tale of the Days of\
+  \ Saint Dunstan"
+url: http://www.gutenberg.org/ebooks/13215
